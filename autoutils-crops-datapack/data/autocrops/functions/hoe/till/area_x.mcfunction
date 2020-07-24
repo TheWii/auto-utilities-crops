@@ -1,0 +1,9 @@
+execute positioned ~4 ~ ~ run function autocrops:hoe/till/area_z
+execute positioned ~3 ~ ~ run function autocrops:hoe/till/area_z
+execute positioned ~2 ~ ~ run function autocrops:hoe/till/area_z
+execute positioned ~1 ~ ~ run function autocrops:hoe/till/area_z
+execute positioned ~ ~ ~ run function autocrops:hoe/till/area_z
+execute positioned ~-1 ~ ~ run function autocrops:hoe/till/area_z
+execute positioned ~-2 ~ ~ run function autocrops:hoe/till/area_z
+execute positioned ~-3 ~ ~ run function autocrops:hoe/till/area_z
+execute positioned ~-4 ~ ~ run function autocrops:hoe/till/area_z

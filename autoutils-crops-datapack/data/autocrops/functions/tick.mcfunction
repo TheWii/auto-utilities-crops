@@ -1,0 +1,1 @@
+execute if score $installed twcr.data matches 1 run function autocrops:main

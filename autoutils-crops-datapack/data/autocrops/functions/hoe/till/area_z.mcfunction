@@ -1,0 +1,9 @@
+execute positioned ~ ~ ~4 if block ~ ~ ~ water run scoreboard players set $hoe_water twcr.temp 1
+execute positioned ~ ~ ~3 if block ~ ~ ~ water run scoreboard players set $hoe_water twcr.temp 1
+execute positioned ~ ~ ~2 if block ~ ~ ~ water run scoreboard players set $hoe_water twcr.temp 1
+execute positioned ~ ~ ~1 if block ~ ~ ~ water run scoreboard players set $hoe_water twcr.temp 1
+execute positioned ~ ~ ~ if block ~ ~ ~ water run scoreboard players set $hoe_water twcr.temp 1
+execute positioned ~ ~ ~-1 if block ~ ~ ~ water run scoreboard players set $hoe_water twcr.temp 1
+execute positioned ~ ~ ~-2 if block ~ ~ ~ water run scoreboard players set $hoe_water twcr.temp 1
+execute positioned ~ ~ ~-3 if block ~ ~ ~ water run scoreboard players set $hoe_water twcr.temp 1
+execute positioned ~ ~ ~-4 if block ~ ~ ~ water run scoreboard players set $hoe_water twcr.temp 1

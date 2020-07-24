@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Auto Utilities: Crops v2.1",
+        "description": "Till, plant and replant with ease",
+        "icon": {
+            "item": "minecraft:carrot"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:the-wii",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

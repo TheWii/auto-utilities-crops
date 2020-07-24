@@ -1,0 +1,1 @@
+execute if predicate autocrops:holding_hoe if predicate autocrops:mainhand_valid_tool run function autocrops:hoe/start

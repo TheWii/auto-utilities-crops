@@ -1,0 +1,14 @@
+{
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "equipment": {
+          "mainhand": {
+            "nbt": "{ctc:{tool:{broken:1b}}}"
+          }
+        }
+      }
+    }
+  }
